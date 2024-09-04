@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6324385b-081e-4c78-b50b-b9f2f6551dff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CalculadoraConsumoEletrico.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/bandeira.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/comodo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/dependencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/dispositivo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/residencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/tipo_consumidor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/tipo_dispositivo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/unidade_consumidora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/bandeira.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/comodo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/consumo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/dependencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/dispositivo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/residencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/tipo_consumidor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/tipo_dispositivo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/unidade_consumidora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/bandeira.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/comodos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/consumo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/dependencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/dispositivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/residencias.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/tipo_consumidor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/tipo_dispositivo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/unidade_consumidora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/consumo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_main.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/enuns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/erros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/messages.py" afterDir="false" />
-    </list>
+    <list default="true" id="6324385b-081e-4c78-b50b-b9f2f6551dff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +92,7 @@
       <workItem from="1724857700492" duration="8383000" />
       <workItem from="1725030645270" duration="8891000" />
       <workItem from="1725445331843" duration="5164000" />
-      <workItem from="1725450528760" duration="697000" />
+      <workItem from="1725450528760" duration="1351000" />
     </task>
     <servers />
   </component>
